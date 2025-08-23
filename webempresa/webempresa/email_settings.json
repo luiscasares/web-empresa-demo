@@ -1,0 +1,7 @@
+{
+    "EMAIL_HOST": "mail.publicidadtoluca.com",
+    "EMAIL_HOST_USER":"noreply-2@publicidadtoluca.com",
+    "EMAIL_HOST_PASSWORD": "a$,8Ki[*ove.z7Oj",
+    "EMAIL_PORT": 587,
+    "EMAIL_USE_TLS": true
+}
